@@ -99,7 +99,7 @@ Scale (number of people) and scope (geographical boundary):  Campaigns and thei
 
 Topics are applied to Stewards and Campaigns and reflect expertise and shared values, they can be professional/skill tags such as bridge-engineering, human rights law, or value based such as reproductive-freedoms, LGPTQ rights.
 
-- Topics are voted on (for and against) generally and per campaign or steward. They need to cross a [measures](#measures) respective threshold to be applied.
+- Topics are voted on (for and against) generally and per [campaign](#campaigns) or [steward](#stewards). They need to cross a [measures](#measures) respective threshold to be applied.
 
 ### Crowd funding and Decentralized Finance:
 
