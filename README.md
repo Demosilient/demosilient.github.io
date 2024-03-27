@@ -6,8 +6,8 @@ Demosilient is a movement and framework for the evolution of democracy, public u
 The imperative is to evolve humanity and democratic self-governance toward an egalitarian future by recapturing power from run-away economic, political and technological constructs back to "we the people" before those constructs eject human participation through AI and automation beyond a salvageable horizon.
 
 In the mid 2000s we lost the opening battle against the 1st wave of **(AI)liens**. Facebook and Google hid them behind our screens, where they are to this day still learning to hijack our impulses and addictions to mine our personal data, and shape our opinions and consumption, for the highest bidder. this was the battle for our attention.
-Today we stand at the outset of another battle. This battle is for our work, creativity and likeness.
-If we build technology that is designed to bypass or fight our human values, we will have lost before it begins to design itself.
+Today we stand at the outset of another battle, one for for our work, creativity and likeness.
+If we build technology that is designed to bypass or fight against our human values, we will have lost before it begins to design itself.
 
 Demosilient is a recognition that to enable and empower valid collective decision-making and human-values centric society, we need to continue to evolve technologies like the radio, the phone and SMS, and the internet in the commons on standard protocols. That civilizational infrastructure, or democratic and administrative systems forming the public square that serves as the foundation of institutional confidence and is arguably the most crucial tenet of democratic society, cannot be built or driven by private interests or profit motive, no more than defense, firefighting, policing, bridges or dams. And that social media content curation is a pivotal service that needs to reflect our explicit values such as community, freedom, empathy, and happiness, not attention-capture KPIs for conversions or data mining, by AI and algorithmic hijacking of our senses and encouragement of our lesser angels.  
 
@@ -36,7 +36,7 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
 
 - Unemployed engagement.
 - Enforcement authority e.g. police and military engagement.
-- Defend stewards and members against corporate and elite challenges in cyber, legal, and dirty wars of intimidation.
+- Defend stewards and members against corporate and elite adversity in cyber, legal, and dirty wars of intimidation.
 - Transitioning to commons open social media, public behavior, and strong opposition from current market monopolies.
 - Access for people under oppressive regimes opposed to democratic self-governance.
 
@@ -47,7 +47,7 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
 		- destroy our planet.
 		- loose our agency or significant personal liberties to a surveillance/authoritarian corporate state.
 		- are automated out of the economic sphere by advanced technology.
-	- Record global institutional mistrust and a crisis of leadership.
+	- Record global institutional mistrust and a crisis of leadership as exemplified by rising internal and external polarizations and conflicts.
 	- New thriving independent media ecosystem, challenging economic and political establishment conventions, that reflects and caters to public mistrust. This ecosystem is looking for honest actors and initiatives to channel their subscription base’s confidence.
 	- Growing concern of the catastrophic risk embedded in the current social media model.
 - Why another platform/framework/collective?
