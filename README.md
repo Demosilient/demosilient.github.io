@@ -72,6 +72,7 @@ Transnational corporations have a massively outsized influence over society, and
 ## Design
 
 Roles (voting always within the framework of Liquid Democracy)
+
 ### Stewards:
 - Are volunteering nominees who draft execution plans to execute campaigns. They are elected to bring their expertise in planning and execution of campaign processes.
 - Once a steward is nominated and they desire to steward the Demosilient community they need to complete a profile which can then be voted on for topics of stewardship e.g.: law-[state, reproductive, human rights], journalism, logistics, finance, etc.
@@ -83,35 +84,40 @@ Roles (voting always within the framework of Liquid Democracy)
 ## Components
 
 ### Campaigns:
+
 - Any member can build a campaign with a clear mission statement and with a threshold of votes which can then be activated for planning and execution.
 - By region (can be pan-regional) and topic, members and stewards are notified of the campaign and can vote on its urgency.
 - After a threshold of votes and maybe some steward appraisals, the campaign is moved into planning whereby stewards use their social confidence index to vie for planning committee placement.
 - Stewards create an execution plan that leverages the Demosilient community and trigger steps in these plans so that members can be engaged for participation in actions like, striking, protesting, researching, community activities, petitioning, web campaigning, institutional filings etc.
 
 #### Measures
+
 Measures are qualifiers that are also voted on and determine geographic and approximate numbers of individuals impacted (may extend to wild-life and habitats). The larger these measures are the more steering requirements that are imposed on a campaign.
 Scale (number of people) and scope (geographical boundary):  Campaigns and their respective topics need to operate under a scale and scope which are intended to make sure that all entities that have a stake in a campaign provide input and that external entities don’t pollute or seize undue influence.
 
 ### Topics
+
 Topics are applied to Stewards and Campaigns and reflect expertise and shared values, they can be professional/skill tags such as bridge-engineering, human rights law, or value based such as reproductive-freedoms, LGPTQ rights.
+
 - Topics are voted on (for and against) generally and per [campaign](#campaigns) or [steward](#stewards). They need to cross a [measures](#measures) respective threshold to be applied.
 
 ### Crowd funding and Decentralized Finance:
+
 - A simple and transparent way to budget and crowd-fund campaigns to enable purchasing of materials, payment of processing fees, or non-volunteer efforts.
 - [DeFi](https://www.forbes.com/sites/digital-assets/2023/11/08/how-crypto-entrepreneurs-are-experimenting-with-universal-basic-income/) to support [UBI](https://democracy.earth/#:~:text=Eradicating%20poverty%20via%20decentralization%20%F0%9F%92%A7) and drive mission oriented investment.
 
 ### Social Ranking:
+
 Recognition and influence are crucial elements of social engagement, a badge system as well as social confidence score (like YouTube subscriber/views) on community goals should reward contributors based on recognized contribution.
 
 ### News/Coverage/Information
 
 ### Process
-
 Offline social interactions and news by journalism stewards and influencers.
-
 ## Integrations
 
 ### Potential Influencers:
+
 - NGOs
 - Social and Environmental non-profits
 - Lobby 99
@@ -127,12 +133,16 @@ Offline social interactions and news by journalism stewards and influencers.
 - Russel Brand
 - Member communities in different professions
 
+<<<<<<< HEAD
 ### Potential partnerships 
 - Democracy Earth 
 - Nostr (Jack Dorsey, [a native internet protocol for social media - Pastebin.com](https://pastebin.com/HnBUM33b))
 - ... [giants mentioned](#goals)
 
+=======
+>>>>>>> 4038c59f8e72610271d4bcbe8e2a10c722f5300c
 ### Education:
+
 - Nebula
 - Substack
 - Supercast
