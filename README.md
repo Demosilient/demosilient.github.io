@@ -132,15 +132,10 @@ Offline social interactions and news by journalism stewards and influencers.
 - Joe Rogan
 - Russel Brand
 - Member communities in different professions
-
-<<<<<<< HEAD
 ### Potential partnerships 
 - Democracy Earth 
 - Nostr (Jack Dorsey, [a native internet protocol for social media - Pastebin.com](https://pastebin.com/HnBUM33b))
 - ... [giants mentioned](#goals)
-
-=======
->>>>>>> 4038c59f8e72610271d4bcbe8e2a10c722f5300c
 ### Education:
 
 - Nebula
