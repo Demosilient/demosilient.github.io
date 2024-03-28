@@ -129,7 +129,8 @@ Offline social interactions and news by journalism stewards and influencers.
 
 ### Potential partnerships 
 - Democracy Earth 
-- Nostr ([Jack Dorsey](Jack%20Dorsey.md))
+- Nostr (Jack Dorsey, [a native internet protocol for social media - Pastebin.com](https://pastebin.com/HnBUM33b))
+- ... [giants mentioned](#goals)
 
 ### Education:
 - Nebula
