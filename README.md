@@ -5,7 +5,7 @@
 Demosilient is a movement and framework for the evolution of democracy, public utility, and social networks/media. With a mission to evolve civilizational infrastructure in the commons for the common good of society and planet and center common values and shared vision.
 The imperative is to evolve humanity and democratic self-governance toward an egalitarian future by recapturing power from run-away economic, political and technological constructs back to "we the people" before those constructs eject human participation through AI and automation beyond a salvageable horizon.
 
-In the mid 2000s we lost the opening battle against the 1st wave of **(AI)liens**. Facebook and Google hid them behind our screens, where they are to this day still learning to hijack our impulses and addictions to mine our personal data, and shape our opinions and consumption, for the highest bidder. this was the battle for our attention.  
+In the 2010s we lost the opening battle against the 1st wave of **(AI)liens**. Facebook and Google hid them behind our screens, where they are to this day still learning to hijack our impulses and addictions to mine our personal data, and shape our opinions and consumption, for the highest bidder. this was the battle for our attention.  
 Today we stand at the outset of another battle against the 2nd wave of **(AI)liens**, the battle for our work, creativity, and likeness (photo-video-realistic immitation).
 If we build technology that is designed to bypass or fight against our human values, we will have lost before it begins to design itself.
 
@@ -113,9 +113,7 @@ Recognition and influence are crucial elements of social engagement, a badge sys
 ### News/Coverage/Information
 
 ### Process
-
 Offline social interactions and news by journalism stewards and influencers.
-
 ## Integrations
 
 ### Potential Influencers:
@@ -134,7 +132,10 @@ Offline social interactions and news by journalism stewards and influencers.
 - Joe Rogan
 - Russel Brand
 - Member communities in different professions
-
+### Potential partnerships 
+- Democracy Earth 
+- Nostr (Jack Dorsey, [a native internet protocol for social media - Pastebin.com](https://pastebin.com/HnBUM33b))
+- ... [giants mentioned](#goals)
 ### Education:
 
 - Nebula
