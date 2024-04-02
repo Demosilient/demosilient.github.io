@@ -1,0 +1,11 @@
+0000000000000000000000000000000000000000 f2d6d963a88d2ee2232102b0f7388b33e2003ae3 Avital Ben-Natan <avital.bennatan@gmail.com> 1711482012 +0200	clone: from https://github.com/Demosilient/demosilient.github.io.git
+f2d6d963a88d2ee2232102b0f7388b33e2003ae3 1c32114bfb492c3099c5aa976823ae1a2d15e7ec Avital Ben-Natan <avital.bennatan@gmail.com> 1711482147 +0200	commit: Initial commit
+1c32114bfb492c3099c5aa976823ae1a2d15e7ec 7a6b8bfef20e6da1f6f55ffdd0d347c93a582fc3 Avital Ben-Natan <avital.bennatan@gmail.com> 1711493085 +0200	commit: add Avaaz
+7a6b8bfef20e6da1f6f55ffdd0d347c93a582fc3 25b4e68bf68ba97b01d4fe65e4a447e2c7d56a19 Avital Ben-Natan <avital.bennatan@gmail.com> 1711554224 +0200	commit: update
+25b4e68bf68ba97b01d4fe65e4a447e2c7d56a19 3e74373ae06a807af9d6c29e0c53d50cb8cb7e9d Avital Ben-Natan <avital.bennatan@gmail.com> 1711554416 +0200	pull --tags origin main: Fast-forward
+3e74373ae06a807af9d6c29e0c53d50cb8cb7e9d 16863de0227a600220b627b07b86430d3a55e1d4 Avital Ben-Natan <avital.bennatan@gmail.com> 1711558015 +0200	commit: Refined README with formatting and content clarity improvements
+16863de0227a600220b627b07b86430d3a55e1d4 ff3c3013b3b5ea2eef9b434fc96180641f86e927 Avital Ben-Natan <avital.bennatan@gmail.com> 1711558306 +0200	rebase (finish): refs/heads/main onto 283e9177f437795bd9b4e491e0d2da9945bf39b5
+ff3c3013b3b5ea2eef9b434fc96180641f86e927 40cecb2513316c6b8cf2e5758afed17bf968d8ba Avital Ben-Natan <avital.bennatan@gmail.com> 1711558674 +0200	commit: update
+40cecb2513316c6b8cf2e5758afed17bf968d8ba b1b2b168750412705b5213533665243584db6b59 Avital Ben-Natan <avital.bennatan@gmail.com> 1711573089 +0200	commit: Added Center for Humane Technology to references
+b1b2b168750412705b5213533665243584db6b59 972814355c7378db592e30b9710cedafb877a92f Ben-Natan <avital.ben-natan@sap.com> 1712008598 +0300	commit: vault backup: 2024-04-02 00:56:37
+972814355c7378db592e30b9710cedafb877a92f fcee564b558bceb53669be5ed087028187a9705d Ben-Natan <avital.ben-natan@sap.com> 1712008903 +0300	commit (merge): vault backup: 2024-04-02 01:01:43
