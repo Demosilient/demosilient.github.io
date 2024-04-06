@@ -15,20 +15,20 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
 
 ## Goals
 
-- Fuse peopleâ€™s daily routines like using their phone to civic engagement and collective organizing whilst migrating from mindless consumption (scrolling, clicking, buying).
+- Fuse peoples' daily routines like using their phone to civic engagement and collective organizing whilst migrating from mindless consumption (scrolling, clicking, buying).
 - Leverage collective power for common values and purpose.
 - Bypass ineffective and/or adversarial political/judicial/enforcement/shareholder/capital-driven structures
 - Empower natural social stewards (media influencers) to convert followerships to social change.
-- Recognize, protect, reward, and empowerâ€¦
+- Recognize, protect, reward, and empower…
   - Whistleblowers like Julian Assange, Edward Snowden, Daniel Ellsberg
   - Policy and public servants that are silent but crucial (unsung heroes)
   - Information outlets for independent and accountable coverage
   - Systems of checks and balances
-  - Evolution of public utility, solutions that donâ€™t lend themselves to current capital leverage.
+  - Evolution of public utility, solutions that don’t lend themselves to current capital leverage.
   - Unified and planned opposition to rogue establishment.
   - Scientific method, education, discovery, equality, and transparency
 - Create lasting community bond between people, around values and beyond specific organizations, events, campaigns, and personas (followerships)
-- Degrowth, shrinking GDP while improving all peopleâ€™s quality of life
+- Degrowth, shrinking GDP while improving all people’s quality of life
 - Build on the shoulders of giants (the good kind) like [Democracy Earth](https://democracy.earth/), [Open Collective](https://opencollective.com/), [Avaaz](https://secure.avaaz.org/), [Diem25](https://diem25.org/en/), [Institute for New Economic Thinking](https://www.ineteconomics.org/) ([Jeffrey Sachs](https://en.wikipedia.org/wiki/Jeffrey_Sachs)), Vandana Shiva, [Kate Raworth](https://www.kateraworth.com/), Donella Meadows, [The Consilience Project,](https://consilienceproject.org/) [Eurasia Group](https://www.eurasiagroup.net/people/IBremmer) (Ian Bremmer), [Center for Humane Technology](https://www.humanetech.com/), [Cliodynamics](https://en.wikipedia.org/wiki/Cliodynamics) (Peter Turchin), [Bellingcat](https://www.bellingcat.com/), etc.
 - Compel similar-minded media organizations like [Substack](https://substack.com/) and [Rumble](https://rumble.com/) to leverage open standard protocols and join Demosilient.
 
@@ -44,17 +44,17 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
 ## Why?
 
 - Why now?
-  - Create the public sphere to own or at least counterbalance the corporate and political spheres before weâ€¦
+  - Create the public sphere to own or at least counterbalance the corporate and political spheres before we:
     - destroy our planet.
     - loose our agency or significant personal liberties to a surveillance/authoritarian corporate state.
     - are automated out of the economic sphere by advanced technology.
   - Record global institutional mistrust and a crisis of leadership as exemplified by rising national and international polarizations and conflicts.
-  - New thriving independent media ecosystem, challenging economic and political establishment conventions, that reflects and caters to public mistrust. This ecosystem is looking for honest actors and initiatives to channel their subscription baseâ€™s confidence.
+  - New thriving independent media ecosystem, challenging economic and political establishment conventions, that reflects and caters to public mistrust. This ecosystem is looking for honest actors and initiatives to channel their subscription base's confidence.
   - Growing concern of the catastrophic risk embedded in the current social media model.
 - Why another platform/framework/collective?
   - Demosilient vs Facebook/Twitter/Other Social Platforms
     - Facebook is designed to keep users on the application as much as possible for the singular goal of mining data for reselling and targeted advertising. It deploys sophisticated algorithms and AI to optimize on this goal as do other similar platforms, which in turn to maximize exposure to ads and paid for propaganda taps into addictive, compulsive, obscene and obsessive user inclinations. Demosilient in contrast works to help users find issues they are passionate about and then connect with likeminded people with whom they can collaborate and engage with on campaigns in the real world.
-    - Since social platforms are privately owned, they cannot be entrusted to uphold freedom of expression, and empower a diverse marketplace of ideas.Â  Indeed, in the modern era many platforms are de-platforming members with unconventional or dissenting views.
+    - Since social platforms are privately owned, they cannot be entrusted to uphold freedom of expression, and empower a diverse marketplace of ideas. Indeed, in the modern era many platforms are de-platforming members with unconventional or dissenting views.
   - Demosilient vs Preppers/Nationalism
   - Demosilient vs Democrats, Republicans and Libertarians
   - Demosilient vs Lobby99/People Party/Forward Party
@@ -64,7 +64,7 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
   - A persistent and comprehensive solution to leverage collective power.
   - Influencer can activate followerships through Demosilient by directing them to a campaign or growing their own stewardship cache via their followers.
 
-# Â Analysis
+# Analysis
 
 Transnational corporations have a massively outsized influence over society, and we live in an age where most of our lives are digitally regulated, surveilled, and profited from by increasingly larger, consolidated and automated corporate structures with the singular goal of maximizing short-term profit delivered to a minority of shareholders. Traditional and public forms of wielding power have not evolved to balance this form of coordinated, comprehensive, global, institutional form of techno-feudalism. This financial markets driven economy is untethered from actual human values or condition and environmental health. With each crisis, many times generated by this system, the benefactor minority extract more wealth and freedoms from the majority. Demosilient is platform to construct global, comprehensive, and collective constructs to wield and leverage people power to counter-act the erosion of autonomy, opportunity, and community by our runaway economic and political systems.
 ![](Spheres%20of%20influence.jpg)
@@ -78,8 +78,9 @@ Roles (voting always within the framework of Liquid Democracy)
 - Once a steward is nominated and they desire to steward the Demosilient community they need to complete a profile which can then be voted on for topics of stewardship e.g.: law-[state, reproductive, human rights], journalism, logistics, finance, etc.
 
 ### Members:
-- Vote for stewards
-- Volunteer to execute on campaigns in a targeted fashion by campaign requirements.
+- Vote for stewards per topic for a period. A vote can be rescinded.
+- Vote for topics on stewards and campaigns and scope and scale of campaigns.
+- Volunteer to execute on campaigns in a targeted fashion by campaign requirements as outlined by streering committee (stewards).
 
 ## Components
 
@@ -93,7 +94,7 @@ Roles (voting always within the framework of Liquid Democracy)
 #### Measures
 
 Measures are qualifiers that are also voted on and determine geographic and approximate numbers of individuals impacted (may extend to wild-life and habitats). The larger these measures are the more steering requirements that are imposed on a campaign.
-Scale (number of people) and scope (geographical boundary):Â  Campaigns and their respective topics need to operate under a scale and scope which are intended to make sure that all entities that have a stake in a campaign provide input and that external entities donâ€™t pollute or seize undue influence.
+Scale (number of people) and scope (geographical boundary):  Campaigns and their respective topics need to operate under a scale and scope which are intended to make sure that all entities that have a stake in a campaign provide input and that external entities don’t pollute or seize undue influence.
 
 ### Topics
 
@@ -149,7 +150,7 @@ Offline social interactions and news by journalism stewards and influencers.
   - Piers Morgan
   - Glen Greenwald
   - Novara Media
-  - â€¦
+  - ...
 
 ## Funding
 
