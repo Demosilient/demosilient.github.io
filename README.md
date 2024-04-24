@@ -5,21 +5,17 @@
 Demosilient is a movement and framework for the evolution of democracy, public utility, and social networks/media. With a mission to evolve civilizational infrastructure in the commons for the common good of society and planet and center common values and shared vision.
 The imperative is to evolve humanity and democratic self-governance toward an egalitarian future by recapturing power from run-away economic, political and technological constructs back to "we the people" before those constructs eject human participation through AI and automation beyond a salvageable horizon.
 
-<<<<<<< HEAD
-In the 2010s we lost the opening battle against the 1st wave of **(AI)liens**. Facebook and Google hid them behind our screens, where they are to this day still learning to hijack our impulses and addictions to mine our personal data, and shape our opinions and consumption, for the highest bidder. this was the battle for our attention.  
-=======
 In the 2010s we lost the opening battle against the 1st wave of **(AI)liens**. High-tech companies hid them behind our screens, where they are to this day still learning to hijack our impulses and addictions to mine our personal data, and shape our opinions and consumption, for the highest bidder. this was the battle for our attention.  
->>>>>>> 5d585a5a0ce436da3886ccb14db7244a11428ea6
 Today we stand at the outset of another battle against the 2nd wave of **(AI)liens**, the battle for our work, creativity, and likeness (photo-video-realistic immitation).
 If we build technology that is designed to bypass or fight against our human values, we will have lost before it begins to design itself.
 
 Demosilient is a recognition that to enable and empower valid collective decision-making and human-values centric society, we need to continue to evolve technologies like the radio, the phone and SMS, and the internet in the commons on standard protocols. That civilizational infrastructure, or democratic and administrative systems forming the public square that serves as the foundation of institutional confidence and is arguably the most crucial tenet of democratic society, cannot be built or driven by private interests or profit motive, no more than defense, firefighting, policing, bridges or dams. And that social media content curation is a pivotal service that needs to reflect our explicit values such as community, freedom, empathy, and happiness, not attention-capture KPIs for conversions or data mining, by AI and algorithmic hijacking of our senses and encouragement of our lesser angels.
 
-Demosilient extends the potential of blockchain-based liquid democracy platforms, such as [Democracy Earth](https://democracy.earth/) with an organic, responsible social network built on open source and open standard protocols such as [ActivityPub](https://www.w3.org/TR/activitypub/) ([Fediverse](https://www.fediverse.to/)), or [Matrix](https://matrix.org/) while partnering with likeminded organizations such as [PeerTube](https://joinpeertube.org/) and [Diaspora](https://diasporafoundation.org/) for content syndication and NGOs for action and stewardship networks. Our aim is to empower individuals and communities across geographical and cultural boundaries to collaborate based on shared values and mutual experiences. Our technology is intended to defend against centralized control, surveillance, censorship as well as cyber and AI threats. Our framework is intended to create natural organic stewardship driven by a shared purpose and guided by expertise and trust. Our application is meant to familiarize with users and connect them on shared values and interests to potential collaborators and guidance as expertise or stored knowledge and resources that can be reapplied to common problems. It will build and channel confidence through liquid democracy and stewardship to enable successful collaborative implementations of shared vision.
+Demosilient extends the potential of blockchain-based liquid democracy platforms, such as [Democracy Earth](https://democracy.earth/) with an organic, responsible social network built on open source and open standard protocols such as [ActivityPub](https://www.w3.org/TR/activitypub/) ([Fediverse](https://www.fediverse.to/)), or [Matrix](https://matrix.org/) while partnering with like-minded organizations such as [PeerTube](https://joinpeertube.org/) and [Diaspora](https://diasporafoundation.org/) for content syndication and NGOs for action and stewardship networks. Our aim is to empower individuals and communities across geographical and cultural boundaries to collaborate based on shared values and mutual experiences. Our technology is intended to defend against centralized control, surveillance, censorship as well as cyber and AI threats. Our framework is intended to create natural organic stewardship driven by a shared purpose and guided by expertise and trust. Our application is meant to familiarize with users and connect them on shared values and interests to potential collaborators and guidance as expertise or stored knowledge and resources that can be reapplied to common problems. It will build and channel confidence through liquid democracy and stewardship to enable successful collaborative implementations of shared vision.
 
 ## Goals
 
-- Fuse people’s daily routines like using their phone to civic engagement and collective organizing whilst migrating from mindless consumption (scrolling, clicking, buying).
+- Fuse peoples' daily routines like using their phone to civic engagement and collective organizing whilst migrating from mindless consumption (scrolling, clicking, buying).
 - Leverage collective power for common values and purpose.
 - Bypass ineffective and/or adversarial political/judicial/enforcement/shareholder/capital-driven structures
 - Empower natural social stewards (media influencers) to convert followerships to social change.
@@ -48,17 +44,17 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
 ## Why?
 
 - Why now?
-  - Create the public sphere to own or at least counterbalance the corporate and political spheres before we…
+  - Create the public sphere to own or at least counterbalance the corporate and political spheres before we:
     - destroy our planet.
     - loose our agency or significant personal liberties to a surveillance/authoritarian corporate state.
     - are automated out of the economic sphere by advanced technology.
   - Record global institutional mistrust and a crisis of leadership as exemplified by rising national and international polarizations and conflicts.
-  - New thriving independent media ecosystem, challenging economic and political establishment conventions, that reflects and caters to public mistrust. This ecosystem is looking for honest actors and initiatives to channel their subscription base’s confidence.
+  - New thriving independent media ecosystem, challenging economic and political establishment conventions, that reflects and caters to public mistrust. This ecosystem is looking for honest actors and initiatives to channel their subscription base's confidence.
   - Growing concern of the catastrophic risk embedded in the current social media model.
 - Why another platform/framework/collective?
   - Demosilient vs Facebook/Twitter/Other Social Platforms
     - Facebook is designed to keep users on the application as much as possible for the singular goal of mining data for reselling and targeted advertising. It deploys sophisticated algorithms and AI to optimize on this goal as do other similar platforms, which in turn to maximize exposure to ads and paid for propaganda taps into addictive, compulsive, obscene and obsessive user inclinations. Demosilient in contrast works to help users find issues they are passionate about and then connect with likeminded people with whom they can collaborate and engage with on campaigns in the real world.
-    - Since social platforms are privately owned, they cannot be entrusted to uphold freedom of expression, and empower a diverse marketplace of ideas.  Indeed, in the modern era many platforms are de-platforming members with unconventional or dissenting views.
+    - Since social platforms are privately owned, they cannot be entrusted to uphold freedom of expression, and empower a diverse marketplace of ideas. Indeed, in the modern era many platforms are de-platforming members with unconventional or dissenting views.
   - Demosilient vs Preppers/Nationalism
   - Demosilient vs Democrats, Republicans and Libertarians
   - Demosilient vs Lobby99/People Party/Forward Party
@@ -68,7 +64,7 @@ Demosilient extends the potential of blockchain-based liquid democracy platforms
   - A persistent and comprehensive solution to leverage collective power.
   - Influencer can activate followerships through Demosilient by directing them to a campaign or growing their own stewardship cache via their followers.
 
-#  Analysis
+# Analysis
 
 Transnational corporations have a massively outsized influence over society, and we live in an age where most of our lives are digitally regulated, surveilled, and profited from by increasingly larger, consolidated and automated corporate structures with the singular goal of maximizing short-term profit delivered to a minority of shareholders. Traditional and public forms of wielding power have not evolved to balance this form of coordinated, comprehensive, global, institutional form of techno-feudalism. This financial markets driven economy is untethered from actual human values or condition and environmental health. With each crisis, many times generated by this system, the benefactor minority extract more wealth and freedoms from the majority. Demosilient is platform to construct global, comprehensive, and collective constructs to wield and leverage people power to counter-act the erosion of autonomy, opportunity, and community by our runaway economic and political systems.
 ![](Spheres%20of%20influence.jpg)
@@ -82,8 +78,9 @@ Roles (voting always within the framework of Liquid Democracy)
 - Once a steward is nominated and they desire to steward the Demosilient community they need to complete a profile which can then be voted on for topics of stewardship e.g.: law-[state, reproductive, human rights], journalism, logistics, finance, etc.
 
 ### Members:
-- Vote for stewards
-- Volunteer to execute on campaigns in a targeted fashion by campaign requirements.
+- Vote for stewards per topic for a period. A vote can be rescinded.
+- Vote for topics on stewards and campaigns and scope and scale of campaigns.
+- Volunteer to execute on campaigns in a targeted fashion by campaign requirements as outlined by streering committee (stewards).
 
 ## Components
 
@@ -153,7 +150,7 @@ Offline social interactions and news by journalism stewards and influencers.
   - Piers Morgan
   - Glen Greenwald
   - Novara Media
-  - …
+  - ...
 
 ## Funding
 
