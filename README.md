@@ -136,6 +136,7 @@ Offline social interactions and news by journalism stewards and influencers.
 ### Potential partnerships 
 - Democracy Earth 
 - Nostr (Jack Dorsey, [a native internet protocol for social media - Pastebin.com](https://pastebin.com/HnBUM33b))
+- [FairPhone](people/FairPhone.md) and [Framework Computer](people/Framework%20Computer.md), these are the sort of businesses we want to become mainstream, there is good mutually beneficial symbiosis here on hardware and software level.
 - ... [giants mentioned](#goals)
 ### Education:
 
