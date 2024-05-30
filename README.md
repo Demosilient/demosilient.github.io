@@ -171,3 +171,6 @@ Offline social interactions and news by journalism stewards and influencers.
 - Edward Snowden
 - Chelsea Manning
 - The Davos Man**
+
+## Contact
+![](farcast_link.jpg)
